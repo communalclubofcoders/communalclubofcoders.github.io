@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+layout: page
+title: "Communal Club of Coders - A Club at NAIT"
+permalink: /index.html
